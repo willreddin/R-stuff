@@ -1,0 +1,528 @@
+Name,Company,Summary,Amount,Status,Stage,Source,Owner,Next Task,Next task Due,People,Deal ID,Primary Contact ID,Company ID
+Continuous Improvement team BuddyPress site,Cabinet Office,"",1800.0,green,Lost,Referral,Harry Metcalfe,"","","",2447424,,10859633
+BIS Hosting,"Department of Business, Innovation and Skills","",24600.0,green,Won,Referral,Harry Metcalfe,"","","",2447426,,10859639
+New MoJ Iterations,Ministry of Justice,"",16650.0,green,Won,Upsell,Harry Metcalfe,"","","",2447437,,10859676
+TBIJ Website enhancements,The Bureau of Investigative Journalism,"",1300.0,green,Lost,Upsell,Harry Metcalfe,"","","",2494602,,11232388
+Ecopliant,Defra,https://docs.google.com/document/d/1bMBn75R4rcyG_eiFFYX5Lo7J3thAzndEviaL14gqSbc/edit,19000.0,green,Won,G-Cloud,Harry Metcalfe,"","","Learie Foster
+07747 472182
+learie.foster@defra.gsi.gov.uk",2682405,1003169317,11854254
+GDS Blogging Platform,Government Digital Service,.gov.uk blogging platform,25000.0,yellow,Won,"",Harry Metcalfe,"","","",2682408,,10859641
+AMEE Corporate Website,AMEE,"AMEE would like to replace their existing corporate website, http://www.amee.com/, with something nicer that reflects their new corporate branding (which is currently in development)",8000.0,red,Lost,Referral,Harry Metcalfe,"","","",2682409,,11854256
+Audit Commission Website,Audit Commission,"",24000.0,"",Lost,Referral,Harry Metcalfe,"","","Tony Cox
+07837 385193
+t-cox@audit-commission.gov.uk",2682414,1003169328,11854258
+Third Pole,China Dialogue,"",1500.0,"",Lost,Referral,Harry Metcalfe,"","","Beth Walker
+beth.walker@chinadialogue.net",2682418,1005377813,11854261
+Delib/Camden WordPress site,Delib,They need a WP site. Blog. News. A few pages. Twitter integration.,11200.0,"",Won,Referral,Harry Metcalfe,"","","",2687602,,11863290
+Replacement DCLG Intranet,Department for Communities & Local Government,"A replacement intranet project in the Department for Communities and Local Government (DCLG) .  I'll provide more details using your form if you are interested but in summary:
+
+
+    We need to build a corporate intranet site from scratch for the DCLG
+
+    We'd like to use Wordpress
+
+    We want to migrate the minimum amount of content from the current site as we can get away with but will still need to migrate several hundred web pages of HR/Finance guidance and hundreds of downloads
+
+    Need to be able to devolve publishing so need a simple to use publishing interface with WYSIWYG editing like in Wordpress but with additional work flow features to enable content approval prior to publication and version control
+
+    Need a decent video player as we can't host on YouTube
+
+    Need to be able to integrate with network sign-in for single sign-on purposes
+
+    We have no coders or developers in house
+
+    We're moving from a monolithic CMS set up and want to move to something that is easy to maintain
+
+    Its just a typical central government intranet with a news and events driven homepage and loads of content on HR, finance, IT & telecoms etc - there are no interactive forms - they are currently all in Word or Excel. Staff directory is a separate app and is not integrated into intranet.
+
+    Have already surveyed staff and conducted basic user workshops but have not carried out IA card sorts
+
+
+Timing:
+
+
+    Must be complete and up and running by end-March next year - preferably earlier
+
+
+What do you think? Is this something you'd be interested in?  We have spoken to another G-cloud company dealing with this type of work and a background in public sector who are interested in this project but we'll need a couple of quotes.  The project board may want you to pitch in person as well as quote - I'll check.",30050.0,green,Won,G-Cloud,Harry Metcalfe,"","","",2711291,,11894122
+Hosting DH WordPress sites,Department of Health,DH are interested in moving their WordPress network away from Steria and to the Platform.,33000.0,green,Won,Referral,Harry Metcalfe,"","","Francis Babayemi
+020 7972 1611
+Francis.Babayemi@dh.gsi.gov.uk",2712793,1005803075,11898787
+GCN sprint and design work,Cabinet Office,"Ann has a bunch of things she wants to do, and improve",8650.0,green,Won,Upsell,Harry Metcalfe,"","","",2712885,,10859633
+Boundary Commission website - WordPress,Boundary Commission,They want someone to host their website,"",yellow,Lost,G-Cloud,Harry Metcalfe,"","","",2712894,,11899241
+BusinessInYou updates,"Department for Business, Innovation and skills",They want more purty.,7805.0,green,Won,Upsell,Harry Metcalfe,"","","",2720418,,11932791
+Core comms Competency framework pages (GCN),Cabinet Office,"Pages on GCN to display their competency framework in a usable, attractive way",3500.0,yellow,Won,Upsell,Harry Metcalfe,"","","Claire Fieldsend
+Claire.fieldsend@co.gsi.gov.uk",2758826,1006008287,10859633
+DWP Collaboration platform,DWP,"DWP need a collaborative interaction platform thingy that works for them internally, but also facilitates collaboration with external parties","",red,Lost,"",Harry Metcalfe,"","","",2799945,,12262909
+Wordpress Communities Platform,Government Digital Service,"This is on hold until there is a decision re the blogging platform. See the other lead.
+
+May get built on top of the GDS blogging platform",25000.0,yellow,Lost,Upsell,Harry Metcalfe,"","","",2800023,,10859641
+GCN Pentest,Cabinet Office,A penetration test of GCN,7500.0,green,Won,"",Harry Metcalfe,"","","",2800051,,10859633
+Royal Society Buddypress site,Royal Society,"A bespoke BuddyPress website
+A private social space for the (approx 1,500) Fellows of the Society
+Concerned about security",13000.0,yellow,Lost,Referral,Harry Metcalfe,"","","Francis Bacon
+6-9 Carlton House Terrace
+London SW1Y 5AG
++44 20 7451 2517
+francis.bacon@royalsociety.org",2803770,1004795846,12274130
+East Lothian Schools multisite,East Lothian Council,Move the East Lothian Schools Multisite with (1600 sites) onto our hosting.,22000.0,green,Won,G-Cloud,Harry Metcalfe,"","","David Gilmour
+01620 827114
+dgilmour@eastlothian.gov.uk",2840284,1004967128,12478433
+Traxxas,Summit Hosting,"http://traxxas.com/ need new ecommerce, social, ticketing, etc. Probably. They're still figuring out what they need though.","","",Lost,Existing client,Harry Metcalfe,"","","Dennis Jacobs
+001 214 363 9595
+dj@summithost.com",2850956,1005081708,12540009
+Seeing is Believing,Standard Chartered,"I hope you’re well. Just following up on a conversation we had at Ann’s birthday dinner. I’ve been tasked with doing a re-vamp of our charity’s website, seeingisbelieving.org.
+
+ 
+
+""I’m in the process of pulling together a more detailed brief, but it would be good if we could have an initial chat about the site and what we’d like to achieve for 2013 and beyond.""",60000.0,red,Lost,Referral,Harry Metcalfe,"","","Sharon O'Dea
+0 7748 932 018
+Sharon.ODea@sc.com",2850965,1005081721,12540022
+Civil Service HR collaboration site,Civil Service HR,Deliver a collaboration site centered around HR policy documents at both IL2 and IL3,"",yellow,Lost,G-Cloud,Harry Metcalfe,"","","",2891767,,12832248
+NAO corporate site hosting,National Audit Office,"The NAO have rebuilt their corporate site using WP. CFTP have done the build. There is an old site which is going away.
+
+The new site needs to launch in January.",5000.0,green,Won,G-Cloud,Harry Metcalfe,"","","Nick Halliday
+07708 099 185
+Nick.Halliday@nao.gsi.gov.uk",2920094,1005803219,12995620
+Responsibility Deal hosting,Department of Health,"""Can you give me a very rough idea of what it could cost to host one single instance of WordPress (as a single solution) - for the Responsibility Deal? With them same kind of managed service as you described in the proposal [for DH hosting].""",5000.0,green,Won,Upsell,Harry Metcalfe,"","","Francis Babayemi
+020 7972 1611
+Francis.Babayemi@dh.gsi.gov.uk",2920099,1005803075,11898787
+DEFRA Interactive Communications Initiative,Defra,A collaborative intranet site,9775.0,green,Won,G-Cloud,Harry Metcalfe,"","","David Light
+07785 700552
+David.Light@defra.gsi.gov.uk",2936628,1005872356,11854254
+Hosting of NHS-CBA WordPress,NHS Commissioning Board Authority (now NHS England),"They were on DH's Multisite.
+DH aren't letting them stay on.
+They're planning to commission a new site with more involved functionality around March/April and are assuming that they're going to have to start again from scratch.
+
+Referred by Francis Babayemi",3000.0,green,Won,Referral,Harry Metcalfe,"","","Beth Johnson
+01138 250 966
+beth.johnson@nhs.net",2944469,1005978492,13116779
+HMRC Portal,HMRC Digital Service,"Alpha for a single portal for businesses to interact with HMRC
+Initially mainly about communicating information to small businesses.
+Possible scope for Agile coaching as part of this.
+
+Additional notes will be in google docs in the leads folder","","",Lost,G-Cloud,Harry Metcalfe,"","","Kalbir Sohi
+",2953858,1006027388,13145882
+DCMS Intranet,DCMS,"",19000.0,"",Lost,G-Cloud,Harry Metcalfe,"","","Andrew Simpson
+020 7211 6356 or 07743 402298
+Andrew.Simpson@Culture.gsi.gov.uk",2987237,1006268888,13356102
+Moj new wiki,Ministry of Justice,Moj need a new wiki,2120.0,"",Lost,Upsell,Harry Metcalfe,"","","",3006804,,10859676
+Liz's WordPress site for gov.uk,Liz Azyan,"I'm currently developing a website that will sit on gov.uk and was wondering if you can send me a quote for the following things I need done. 
+
+I need to make sure that it can do the following
+
+    Works on the typical gov machine - browsers, performance etc
+    Is secure from external threat
+    Advising on safe plugins
+
+This would possible take place in the next 2 - 3 weeks once I'm done with the design etc.
+
+Is this something you can help me with? And can you send me a quote on how much this will cost?",2000.0,"",Lost,Referral,Harry Metcalfe,"","","",3009236,,13442056
+MoJ IT Profession website,Ministry of Justice,MoJ would like to move their IT Profession website over to dxw's hosting platform,5800.0,green,Won,Referral,Harry Metcalfe,"","","",3039832,,10859676
+Mydex reimplementation,Mydex,"Reimplement Mydex to make it better
+
+ORIGINAL IDEA:
+We need to audit the plugins on Mydex and recommend any remedial work we think necessary.",2200.0,"",Lost,Upsell,Harry Metcalfe,"","","",3040049,,13634000
+Health Education England,Health Education England,Health Education England (HEE) are looking for something similar to DH's multisite installation. Looking for re-branding and hosting.,13100.0,green,Won,Referral,Harry Metcalfe,"","","",3041968,,13643223
+College of Policing new website,College of Policing,"Home Office CTO
+New Website
+Matt Bishop
+College of Policing
+-> Authorised professional practice: currently PDF!
+
+CMS, design, config, content converstion
+Workflow for publishing
+
+Some IL3, most IL0
+
+Agile, open source",50000.0,yellow,Lost,Referral,Harry Metcalfe,"","","",3046775,,13883279
+Source Financial Services - Campaign pages,Source,FS company want a WP instance to host landing pages - linked to from web ads,6450.0,yellow,Lost,Referral,Harry Metcalfe,"","","Harrison Bolade
++44 (0)20 3370 1140
+Harrison.Bolade@source.info",3064577,1007638049,14098183
+Thames Valley Housing - Web Development Services,Thames Valley Housing Association,"Very vague at the moment. Selected extracts from their RFI:
+
+The design & development of a comprehensive online customer services solution. 
+It will need to draw information from the underlying Housing Management system (Civica’s Universal Housing) and present it to the customer via the web. 
+It will need to take data in from a registered user, and post that back into the core Housing Management system.  
+We anticipate using an API for this purpose, but this and other technical details will be supplied at the RFP stage.
+There will need to be a CMS for managing other content generated by TVH. We anticipate drawing in social content from a range of platforms.
+The solution should be operable on a range of devices – PCs, tablets and smart phones.  
+TVH are keen to use an Agile approach for the delivery of this project.",112546.0,"",Won,Referral,Harry Metcalfe,"","","",3099442,,14436151
+Wordpress Hosting for NHS TDA,NHS Trust Development Authority (TDA),"Another DH thing - just a lift and shift for now, but they're interested in dev in the future to make the site shinier, http://www.ntda.nhs.uk/",6088.0,green,Won,Referral,Harry Metcalfe,"","","Victoria Parker
+0207 932 9033
+victoria.parker1@nhs.net",3152109,1008835069,14598574
+GCN hosting,Cabinet Office,Moving GCN onto our own platform,1450.0,green,Won,Referral,Harry Metcalfe,"","","",3152125,,10859633
+Home Office CMS,Home Office,Hosting for all the sites which aren't being moved to the single domain,26650.0,"",Lost,Referral,Harry Metcalfe,"","","Emma Charles
+Work: 020 70354079 Mobile: 07771 396199
+Emma.Charles8@homeoffice.gsi.gov.uk",3158506,1008840479,14630420
+Low Pay Commission hosting,Low Pay Commission,"Hosting a static HTML site, adding some google search foo",1400.0,green,Lost,Referral,Harry Metcalfe,"","","",3177119,,14647734
+NHS TDA Intranet,NHS Trust Development Authority (TDA),The NHS Trust Development Authority need an intranet asap!,11000.0,green,Won,Referral,Harry Metcalfe,"","","Victoria Parker
+0207 932 9033
+victoria.parker1@nhs.net",3219663,1008835069,14598574
+Source Financial Services - Intranet,Source,"",20700.0,"",Lost,Referral,Harry Metcalfe,"","","Harrison Bolade
++44 (0)20 3370 1140
+Harrison.Bolade@source.info",3220341,1007638049,14098183
+Maths4Us,UnionLearn,"Unionlearn is the learning and skills organisation of the Trades Union Congress (TUC).
+Maths4Us is a basic numeracy programme: http://www.unionlearn.org.uk/press-releases/2012/poor-numeracy-blights-lives-maths4us-here-help
+
+Not sure what the project is about - was discussed with Harry in Late 2012","","",Lost,Referral,Harry Metcalfe,"","","Clifford Singer
+clifford@sparkloop.com",3224213,1009175408,14850715
+Health Education England Intranet,Health Education England,"""We would like to develop an intranet. So, in basic terms, a password protected area at the main website where staff can find corporate messages, news of events, HR and finance forms etc. We have 13 LETBs, who would also need private areas of the intranet. So we need a main corporate area and 13 other areas.""",8500.0,"",Lost,Upsell,Harry Metcalfe,"","","Catherine Taylor
+01223 596 989
+catherine.taylor11@nhs.net",3462425,1009960162,13643223
+BusinessInYou homepage revamp,"Department for Business, Innovation and skills","Apologies for the short notice and for lumping this on you late on a Friday afternoon no less! But we are looking at making some revisions to BiY in the next two weeks (deadline 18 March) as part of a No 10 launch.
+
+The work isn't all that complex - modifications to the homepage and blog templates primarily as well as some smaller changes to navigation, searchbar etc.
+
+I've copied some basic notes below and you can find a couple of rough wireframes here:
+
+https://docs.google.com/presentation/d/1vTAyNat5S7vZQwbfwv48e77SFrjWmj_TMB7Hw2rfJDE/edit#slide=id.p
+
+If you could let me know whether you think the work is doable in this timeframe and give me an idea of costs that would be much appreciated.
+
+If you'd like  to meet next week to discuss things in more details, happy to arrange.
+
+Thanks,",2500.0,"",Won,Upsell,Harry Metcalfe,"","","",3462574,,11932791
+HRA website,Health Research Authority (HRA),"The Health Research Authority aims to facilitate health research and make it easier for the public to participate in it
+
+An arm’s length body of the Department of Health (DH)",40700.0,green,Won,Referral,Harry Metcalfe,"","","Gordon Harrison
+0207 972 2609
+gordon.harrison@nhs.net",3469556,1010676129,15206370
+Cumbria NHS FT - Rebranding and new website,Cumbria Partnership NHS Foundation Trust,"Cumbria Partnership NHS Foundation Trust is looking for a suitable partner to conduct a brand refresh, and design and deliver a new website for the Trust. 
+
+The Trust is looking to engage with an organisation who will: 
+
+Develop the organisations vision statement; 
+Conduct a brand refresh; 
+Develop a new website which is more interactive and tailored to the Trusts key stakeholders (patients, carers, GPs, members of the public)
+
+Budget is £20k-£30k",20000.0,"",Lost,Referral,Harry Metcalfe,"","","Kathryn Howarth
+01539716631 / 01228608291
+Kathryn.Howarth@cumbria.nhs.uk",3484278,1012166574,15287507
+Islamic Welfare Systems Site,Islamic Welfare Systems,"A basic informational ""Community"" site with Events information",2000.0,"",Lost,Website,Harry Metcalfe,"","","",3506330,,15321465
+Choose and Book / NHS e-Referral Service,NHS Connecting for Health,Epic NHS system needs replacing,45000.0,"",Lost,G-Cloud,Harry Metcalfe,"","","Lenore Ogilvy
+0113 3973542
+Lenore.Ogilvy@nhs.net",3528418,1012376794,15403695
+ODI Open Data Certificates project,The Open Data Institute,"I'm looking for a team of developers to help us deliver a web app that will be core to our mission and you were the first team I thought of.
+
+
+We want to reward publishers of open data and support discovery by providing ""Open Data Certificates"" for organisations that publish open data well. We are looking for help in implementing a website that will enable people to:
+
+ 1. create concrete plans for opening up data
+ 2. create certificates for their open data
+ 3. search and browse certificates
+ 4. add information that is relevant for other data reusers
+ 5. find metrics about open data uptake
+
+Because our remit is open data, it is just as important that the site provides good access to the site's underlying data as that it provides a compelling user experience.
+
+There is more about the rationale and vision for the Open Data Certificate in the wiki for the project here:
+
+ https://github.com/theodi/open-data-certificate/wiki/Vision
+
+We have made a start with an early alpha of the certificate creation that you can look at here:
+
+ http://theodi.github.com/open-data-certificate/
+
+We want to engage in a collaborative, agile project, and as with all our projects for the development work to happen in the open and the result to be open source. We can provision the necessary servers, a continuous integration environment and continuous deployment. We are looking for a beta release by the end of May.",40000.0,"",Lost,Referral,Harry Metcalfe,"","","",3535075,,15417081
+DCLG Planning Guidance Suite,Department for Communities & Local Government,Website to be the main home for all guidance around planning,32000.0,green,Won,Referral,Harry Metcalfe,"","","Aled Herbert
+0117 372 8644
+Aled.Herbert@communities.gsi.gov.uk",3551131,1012542426,11894122
+Tenancy Deposits API update,Shelter,"Shelter need some advice on APIs. 
+The plan is for us to go to some meetings and give them some advice",2000.0,"",Lost,Referral,Harry Metcalfe,"","","Emily Shipp
+0344 515 1180
+Emily_Shipp@shelter.org.uk",3553778,1012559414,15480328
+New TBIJ site,The Bureau of Investigative Journalism,Deadline end of May,12000.0,"",Won,Existing client,Harry Metcalfe,"","","",3610887,,11232388
+CAB Possible Agile work,Citizens Advice Bureau,"",12000.0,red,Lost,Referral,Harry Metcalfe,"","","",3819940,,15961955
+DEFRA more intranet,Defra,More intranet work,25000.0,yellow,Won,Upsell,Harry Metcalfe,"","","",4114851,,11854254
+ONS Migration,Office for National Statistics,GSS intranet/buddypress site to move from GDS to us.,15000.0,yellow,Won,Referral,Harry Metcalfe,"","","",4126615,,16281820
+NAO Actions Database,National Audit Office,Creating a filterable actions database tracking how actions from NAO reports have been followed up by PASC and Treasury,10000.0,"",Lost,Upsell,Harry Metcalfe,"","","",4126779,,12995620
+Venturian Media website,Venturian Media,XML product integration (?),18000.0,red,Lost,"",Harry Metcalfe,"","","",4127261,,16281892
+DemSoc Open Policy Making Matrix,"",Database and filter pages for examples of open policy making,7175.0,yellow,Won,Upsell,Harry Metcalfe,"","","",4163448,,
+East Lothian Archives,"",Hosting Query,10000.0,yellow,Won,Referral,Harry Metcalfe,"","","",4212859,,
+HEE Breadcrumbs,Health Education England,Add breadcrumb to HEE site,2000.0,green,Lost,"",Harry Metcalfe,"","","",4212957,,13643223
+MOJ Functional Sprint,Ministry of Justice,https://docs.google.com/document/d/1y86xhNBGGgAdHlOabdigHbSOiBOUbejTelhuWRM40ds/edit?usp=sharing,11900.0,"",Won,Existing client,Harry Metcalfe,"","","",4257312,,10859676
+HEE News Cross posting,Health Education England,https://docs.google.com/document/d/1llJwVjI5ZVYz3MhI_6hvfOWcU6wlrabTOwux2wlaHwk/edit?usp=sharing,2340.0,"",Lost,Existing client,Harry Metcalfe,"","","",4257319,,13643223
+EAP 3d model,Camden Council,"",1560.0,"",Won,Existing client,Harry Metcalfe,"","","",4286771,,16427067
+TVHA Corporate,Thames Valley Housing Association,A corporate site for TVHA,14000.0,green,Won,Existing client,Harry Metcalfe,"","","",4403244,,14436151
+BIS Business Bank,"Department of Business, Innovation and Skills",A site for the new BIS project for SMEs,16320.0,green,Won,Existing client,Harry Metcalfe,"","","",4403245,,10859639
+Parliament Website Review,House of Commons,Discovery phase review of Parliamentary web estate,25000.0,yellow,Lost,Referral,Harry Metcalfe,"","","",4403248,,16908050
+BIS Intranet,"Department for Business, Innovation and skills",Potential productising intranet,25000.0,yellow,Lost,"",Harry Metcalfe,"","","",4403250,,11932791
+Futurelearn theme work,FutureLearn,"",8160.0,yellow,Lost,Referral,Harry Metcalfe,"","","",4524125,,17292360
+Food Standards agency,Food Standards Agency,Shortlisted - through to proposal stage,25000.0,yellow,Lost,Referral,Harry Metcalfe,"","","",4524135,,17292368
+Consumer Council for Water,Consumer Council for Water,"",20880.0,green,Won,Referral,Harry Metcalfe,"","","Bill Woodall
+01213451025
+bill.woodall@ccwater.org.uk",4524144,1025575860,17292381
+GDS Blogs,Government Digital Service,Further sprint work and discovery on markdown,14460.0,green,Won,Upsell,Harry Metcalfe,"","","",4524160,,10859641
+Royal College of Nursing Website,Royal College of Nursing,"",25000.0,red,Lost,Referral,Harry Metcalfe,"","","",4649883,,17577334
+HRA Rec Database,Health Research Authority (HRA),"",14400.0,yellow,Lost,Upsell,Harry Metcalfe,"","","",4649906,,15206370
+NAO print-on-demand for publications,National Audit Office,"NAO's contract with TSO is coming to an end and they need a new solution for people to order printed copies of their reports. I suggested using a print on demand service that would handle ordering/paying, and using their API to push new documents to that service as they are published on the site.
+
+I said we would come back to them with a quote for a short discovery phase to look at their needs, check out some print on demand services and investigate what would be involved in integrating with them.",5000.0,green,Lost,Existing client,Harry Metcalfe,"","","",4656781,,12995620
+Health Intranet DISCO/MVP,"",New Intranet for DH,20000.0,green,Won,Existing client,Harry Metcalfe,"","","",4671106,,
+SHM Foundation,SHM Foundation,Rate my teacher site - could do with redesign,35000.0,red,Lost,Referral,Harry Metcalfe,"","","",4671111,,17648328
+NHS England Sprint,NHS Commissioning Board (now NHS England),"",10920.0,green,Won,Existing client,Harry Metcalfe,"","","",4671113,,13356116
+DEFRA Smart Guidance Tweak,Defra,"",1200.0,green,Won,Existing client,Harry Metcalfe,"","","Edward Lockhart-Mummery
+020 7238 4647
+edward.lockhart-mummery@defra.gsi.gov.uk",4671135,1025502539,11854254
+WBC Sprint,DCMS,Changes to the WBC site,8000.0,yellow,Lost,Existing client,Harry Metcalfe,"","","",4671157,,13356102
+Great Business,"Department of Business, Innovation and Skills",Reskin,8000.0,"",Won,"",Harry Metcalfe,Follow-Up with Fran,01/26/15,"Guinnevere Whelan
+020 7215 3071
+Guinnevere.WHELAN@bis.gsi.gov.uk",4671202,1025505342,10859639
+TBIJ November Clean Up,The Bureau of Investigative Journalism,"",800.0,green,Won,Existing client,Harry Metcalfe,"","","",4704056,,11232388
+Campaigns PHE Hosting,Department of Health,"DH would like to move campaigns.dh.gov.uk off their install and into a separate one, paid for by the campaigns team",5000.0,green,Won,Existing client,Harry Metcalfe,"","","",4713660,,11898787
+HRA Intranet,Health Research Authority (HRA),HRA want an intranet,25000.0,red,Lost,Existing client,Harry Metcalfe,"","","",4727831,,15206370
+BIS Intranet hosting,"Department of Business, Innovation and Skills","HT are building BIS an intranet, but they might want hosting",8000.0,yellow,Won,Existing client,Harry Metcalfe,"","","",4727839,,10859639
+HRA Research Summaries,Health Research Authority (HRA),They want to replicate some of some other thing,10000.0,yellow,Lost,Existing client,Harry Metcalfe,"","","",4727919,,15206370
+M & G Investments,M & G Investments,2 wordpress build and hosting things,40000.0,yellow,Lost,Referral,Harry Metcalfe,"","","",4805495,,18158316
+Defra intranet user research,Defra,Some user research to inform the next sprint,4250.0,green,Won,Existing client,Ian Dow-Wright,"","","",4809621,,11854254
+HRA Intranet Discovery,Health Research Authority (HRA),HRA might like us to do some discovery work to inform a tender.,10000.0,yellow,Lost,Existing client,Harry Metcalfe,"","","",4845955,,15206370
+A/B testing on Great Business to improve retention,"Department of Business, Innovation and Skills","The homepage of Great Business currently has an 80% bounce rate. The client is interested in some research and a/b testing to see if this can be reduced, as they would like to see more engagement with their content.",10000.0,yellow,Lost,Existing client,Harry Metcalfe,"","","",4845976,,10859639
+GSS/ONS additional sprint,Office for National Statistics,Work on database exports,5000.0,red,Lost,Upsell,Harry Metcalfe,"","","Craig Orchard
+01633 455755
+craig.orchard@statistics.gsi.gov.uk",4920130,1022866825,16281820
+BIS WordPress Update,"Department of Business, Innovation and Skills","BIS want to get rid of unnecessary sites and do some assurance on what's left. Ultimately, they should just have Great Business, Discuss and Blogs.",5000.0,yellow,Lost,Existing client,Harry Metcalfe,"","","Tim Lloyd
+",4926890,1018681069,10859639
+HRA research summaries and REC directory,Health Research Authority (HRA),It turns out we do need to do this after all. HRA require a set of templates and integration with a JSON API to allow their research summaries and REC directory to be searched and viewed.,10000.0,yellow,Won,Existing client,Harry Metcalfe,"","","Chris Keane
+07779 263 464
+chris.keane@nhs.net",4926893,1018681067,15206370
+BIS Business Bank Hosting,"Department for Business, Innovation and skills",Hosting contract for Business Bank,8000.0,green,Won,Existing client,Harry Metcalfe,"","","",4962243,,11932791
+DH Healthpress tidying,Department of Health,Upgrading DH's default WP themes and making loads of things configurable and not made of hammers,30000.0,red,Lost,Existing client,Harry Metcalfe,"","","Jason Caplin
+020 7210 5783
+jason.caplin@dh.gsi.gov.uk",4962247,1022866798,11898787
+TVH Newsroom,Thames Valley Housing Association,TVH want to extend their current site to include the newsroom functionality which is currently provided by a separate (ugly) thing,17000.0,green,Won,Existing client,Harry Metcalfe,"","","",5029701,,14436151
+DCLG - Local Gov thingy,Department for Communities & Local Government,"Alex has the details for this - sorry for the vagueness, just wanted to get it logged",15000.0,yellow,Lost,Referral,Ian Dow-Wright,"","","",5060697,,11894122
+TBIJ tidy up,The Bureau of Investigative Journalism,2 days of work for TBIJ - we've already invoiced but not scheduled,1000.0,green,Won,Upsell,Ian Dow-Wright,"","","",5060700,,11232388
+Planning Guidance - work for live site,Department for Communities & Local Government,"",15000.0,green,Won,Upsell,Ian Dow-Wright,"","","",5060706,,11894122
+Defra sprint,Defra,"They want to do a sprint, after they have done some user research",6240.0,green,Won,Existing client,Harry Metcalfe,"","","",5094454,,11854254
+DH Intranet Beta,Department of Health,Sprints for delivery of the DH beta,70000.0,yellow,Lost,Existing client,Harry Metcalfe,"","","",5094460,,11898787
+Judiciary Site & Intranet,Judiciary Service,"",24000.0,yellow,Won,Referral,Harry Metcalfe,"","","Annalise Curry
+020 7073 1711
+Annalise.Curry@judiciary.gsi.gov.uk",5110684,1025504764,18880906
+OFFA Hosting and support,"",Hosting for Office of Fair Access and associated tuning work,9000.0,yellow,Lost,G-Cloud,Harry Metcalfe,"","","",5142411,,
+The Bridge v2,Home Office,Looking at developing a replacement from Buddypress. They have mentioned that they have a reasonable budget available and Harry has suggested that now might be a good time to start afresh.,30000.0,yellow,Lost,Upsell,Harry Metcalfe,"","","Blaine Webb
+07788918217
+Blaine.Webb@homeoffice.gsi.gov.uk",5142621,1022866858,14630420
+Responsibility Deal Rebuild,Department of Health,"A new rdeal site, in rails",70000.0,yellow,Lost,Existing client,Harry Metcalfe,"","","",5657329,,11898787
+ONS hosting for something,Office for National Statistics,Alex has the deets. Matt Jukes.,10000.0,yellow,Lost,G-Cloud,Harry Metcalfe,"","","",5657340,,16281820
+Intranet MoJ thing,Ministry of Justice,Dilip Parmar wants some sort of internal thing,25000.0,yellow,Lost,Referral,Harry Metcalfe,"","","",5657366,,10859676
+DCMS Blog rebuild,"Department of Culture, Media & Sport","They have this awful Movable Type blog:
+
+http://blogs.culture.gov.uk/main/
+
+They want to move to WordPress. They don't want to use blog.gov.uk because it doesn't do what they want, eg headshots on homepage.
+
+They want build and maybe short-term host but not proper hosting",15000.0,yellow,Lost,Referral,Harry Metcalfe,"","","",5690626,,19645947
+ONS WP Theme,Office for National Statistics,Developing a new WP theme for  ONS. Client has approved the project but procurement are moving slowly.,20000.0,green,Won,Referral,Harry Metcalfe,"","","Matt Jukes
+01633 45 5432
+matt.jukes@ons.gsi.gov.uk",5798128,1022888817,16281820
+Parliament Intranet Discovery,House of Commons,A short amount of discovery work to inform the direction of the Intranet discovery.,9720.0,green,Won,Upsell,Harry Metcalfe,"","","Tracy Green
+020 7219 2010 / 020 7219 4834
+greentr@parliament.uk",5798148,1022866346,16908050
+DCLG Intranet,Department for Communities & Local Government,Client would like further work doing on the intranet from May. Currently not enough in Pivotal for an eight day sprint.,7000.0,green,Won,Existing client,Ian Dow-Wright,Awaiting contract,09/26/14,"Graham Noad
+030 3444 1188
+Graham.Noad@communities.gsi.gov.uk",5879771,1022866710,11894122
+Defra Intranet,Defra,Defra would like to make further improvements to their existing website. There is user research in google drive.,8880.0,green,Won,Existing client,Ian Dow-Wright,"","","David Pearson
+020 7238 6398
+david@davidp.org.uk",5879788,1022866679,11854254
+Parliament Week,House of Commons,"Parliament are rebuilding the site for Parliament Week, one of the most important public engagement exercises of the year. Events range from TEDx Houses of Parliament, through dance and performance in Westminster Hall to talks on the Speaker’s Art Collection.",20000.0,red,Lost,Referral,Harry Metcalfe,"","","Tracy Green
+020 7219 2010 / 020 7219 4834
+greentr@parliament.uk",5901621,1022866346,16908050
+MoJ Intranet Discovery,Ministry of Justice,MoJ are currently in Discovery (not with us) to work out what they require from an intranet.,18000.0,red,Lost,Referral,Harry Metcalfe,"","","Sym Roe
+",5901642,1022866656,10859676
+SH24,SH24,Sexual Health Online Services Platform. Will allow for online ordering of tests.,25000.0,red,Lost,Referral,Harry Metcalfe,"","","",5964310,,20498351
+Public Health England Discovery (DSF),Public Health England,DSF thing for a digital strategy for PHE,16000.0,red,Lost,G-Cloud,Harry Metcalfe,"","","",5964392,,20498366
+WP Hosting for Midlothian,Midlothian Council,Potential WP Hosting for Midlothian. Referral from David Gilmour (East Lothian).,10000.0,red,Lost,Referral,Ian Dow-Wright,"","","Tommy Lawson
+",6000962,1022891470,20542204
+Parliament Intranet,House of Commons,Potential work to develop an intranet for Parliament.,20000.0,green,Won,Upsell,Ian Dow-Wright,"","","Tracy Green
+020 7219 2010 / 020 7219 4834
+greentr@parliament.uk",6022269,1022866346,16908050
+Website & Intranet for Elmbridge Borough Council,Elmbridge Borough Council,"Elmbridge Borough Council is seeking to award a contract for the Council's website, intranet and content management system.
+
+In addition to the provision of a content management system, the Council is looking for a supplier to design a new website and intranet, provide training on the content management system and support and host the website.
+
+Also after installation and set up there is requirement to provide support services for a period of 5 years.
+
+To request Tender Documents, please email mladha@elmbridge.gov.uk",20000.0,red,Lost,Contracts Finder,Ian Dow-Wright,"","","Mahomed Ladha
+01372 474130
+mladha@elmbridge.gov.uk",6025241,1023004367,20624665
+Education & Employers Taskforce,Education & Employers Taskforce,"A new site for the Education and Employers Taskforce.
+
+(Referral  from John Turnbull at GDS previously BIS)",25200.0,yellow,Lost,Referral,Ian Dow-Wright,"","","Carol Glover
+carol.glover@educationandemployers.org",6042811,1023182470,20684053
+Autism Charity Site,Ambitious about Autism,A guy from an autism charity that Alex knows from BarcampNFP called. They're going to include us on their list when they send out an RFP for the redevelopment of their coporate site.,100000.0,red,Lost,Referral,Ian Dow-Wright,"","","Mike Stuart
+mstuart@ambitiousaboutautism.org.uk",6081795,1023668556,20768814
+Justice Across Borders Intranet,Justice Across Borders,An intranet(?) for JAB to connect lawyers with pro bono work.,10000.0,red,Lost,Referral,Ian Dow-Wright,"","","Thais Portilho
+020 7960 6138
+tpshrimpton@justiceacrossborders.org",6091390,1023350317,20797378
+DH Microsite,Department of Health,Microsite for Francis,2800.0,green,Won,Existing client,Ian Dow-Wright,"","","",6126543,,11898787
+User research for ARK,ARK,Client is interested in user research for an intranet,5000.0,yellow,Lost,Referral,Ian Dow-Wright,"","","Deborah Hermer
+Deborah.Hermer@arkonline.org",6156935,1023664853,21020333
+Force Internet Replacement,PCC Cheshire,Cheshire Constabulary requires a brand new website to replace the existing site (www.cheshire.police.uk). The current site has been in operation for nearly five years and we now require a new platform to support the ambitious Transforming Future Policing project the Force is undertaking.,300000.0,red,Lost,"",Ian Dow-Wright,"","","Helen Elliott
+helen.elliott@cheshire.pnn.police.uk",6205027,1023937618,21154780
+Cost Calculator CMS,Money Advice Service,"We would like to create a flexible cost calculator template – managed by a stand-alone content management system – which would enable us to build bespoke calculators for inclusion on a range of websites.
+
+MAS will provide access to designs and code for our existing cost calculators if required, but would like to work with an agency who can provide input into designs as well as build the content management system in accordance with MAS coding guidelines (attached).",20000.0,red,Lost,"",Ian Dow-Wright,"","","",6205064,,21154930
+Locally Sorted,Lewes District Council,"The project is to create a new digital platform called Locally Sorted. The purpose of the platform is to provide a simple-to-use space to facilitate community and democratic activities for residents, community organisations, businesses, councillors and the public sector.",100000.0,red,Lost,Referral,Ian Dow-Wright,"","","Judith Field
+Judith.Field@lewes.gov.uk",6365358,1024855183,21541026
+Mystery Project,Ministry of Justice,"They have lots of requests for little websites. They don't want to be making little websites. Project is for us to do discovery on a shared thing - a product, essentially - that lets people have a little website that does news, content, documents etc, for a monthly fee with no up front cost. Deadline asap and budget £whatever it costs.",40000.0,red,Lost,Existing client,Ian Dow-Wright,"","","James Darling
+",6374648,1024925399,10859676
+Additional Sprint,Thames Valley Housing Association,TVHA are talking about an additional sprint,15000.0,red,Won,Existing client,Ian Dow-Wright,"","","",6374851,,14436151
+Get into teaching,Department for Education,A website to replace http://www.education.gov.uk/get-into-teaching,30000.0,yellow,Lost,G-Cloud,Harry Metcalfe,"","","",6396076,,21626191
+Digital Project,Royal Marsden,Had a call from Kanwaljit asking if we would like an RFP for a new digital project from The Royal Marsden. They have seen our work and are really impressed and were directed to us from GDS apparently. I have signed up to their procurement system and we are awaiting the RFP,20000.0,red,Lost,Referral,Ian Dow-Wright,"","","Kanwaljit Dilawari
+020 7811 8271
+Kanwaljit.Dilawari@rmh.nhs.uk",6406148,1025213550,21661706
+Prototype Diagnosis Tool,Thames Valley Housing Association,"Building a tool to automagically direct repair requests to the right place, potentially based on some fuzzy logic matching.",10000.0,red,Won,Existing client,Ian Dow-Wright,"","","",6428232,,14436151
+RTB Online Form,Department for Communities & Local Government,there are no plans to feed ant data into another site – any storage is purely for the duration of completing the form – once finished and printed the data should be deleted.  There was talk of a data capture to enable advisors to provide help with completing the form but to simplify the requirement we can handle that with an opt in question on the Right to buy website to be completed before proceeding to the form.,5000.0,red,Lost,Existing client,Ian Dow-Wright,"","","Graham Noad
+030 3444 1188
+Graham.Noad@communities.gsi.gov.uk",6433137,1022866710,11894122
+Migrating pages,NHS England,NHS England want to migrate some pages from one site to another.,390.0,yellow,Won,Existing client,Ian Dow-Wright,"","","Phil Watson
+0113 825 1429
+phil.watson@nhs.net",6514202,1025753505,22085713
+Sentencing Council,Sentencing Council,The Sentencing Council want to migrate their site from RedDotCMS to WordPress.,60000.0,green,Lost,Referral,Ian Dow-Wright,"","","Helen Stear
+0207 0715788
+Helen.Stear@sentencingcouncil.gsi.gov.uk",6565813,1026038273,22244351
+Gneomics Education,Health Education England,Gneomics Education have built a site off of hee.nhs.uk and it needs to be migrated.,8500.0,yellow,Lost,Existing client,Ian Dow-Wright,"","","Naomi Farmer
+0113 295 2257
+naomi.farmer@nhs.net",6582643,1026178863,13643223
+Micro Site,British Transport Police,"BTP contacted us to ask for a micro site to serve PDFs to pre-vetted users. More details to follow.
+
+
+Sue.collins@btp.pnn.police.uk 
+Philippa.smith@btp.pnn.police.uk",9000.0,yellow,Lost,Referral,Ian Dow-Wright,Expected close date,06/26/15,"Peter Robbins
+020 7521 6809
+peter.robbins@btp.pnn.police.uk",6603912,1031855989,22326751
+Responsibilty Deal,Department of Health,Redevelopment of Responsibility Deal,79000.0,green,Lost,Existing client,Ian Dow-Wright,"","","",6682873,,11898787
+NTDA Corporate Site,NHS Trust Development Authority (TDA),NTDA are looking to ditch HealthPress and redevelop their site properly,20000.0,red,Lost,Upsell,Ian Dow-Wright,Wait to hear back from Juliette,03/04/15,"Juliette Marshall
+juliettemarshall@nhs.net",6682878,1031916968,14598574
+HEE WordPress Training,Health Education England,HEE want half a day of WordPress training for 15 people in their centre in Birmingham.,1425.0,yellow,Lost,Existing client,Ian Dow-Wright,"","","Jenny Amos
+01132 952 253
+jenny.amos@nhs.net",6722793,1026608705,13643223
+HTMR,Medical Research Council,Hubs for Trials Methodology Research are looking to move their site to WordPress. They are looking to have a site developed and hosted.,20000.0,red,Lost,Referral,Ian Dow-Wright,"","","",6762652,,22769851
+Equity Housing ICT Strategy,Equity Housing Trust,They have a bad one and they want Harry's advice,4800.0,green,Won,Referral,Harry Metcalfe,"","","",6805843,,22951752
+DISCOVERY for Public access to public sector networks,Cabinet Office,"The Cabinet Office wishes to operate a service that makes public sector networks available for public use. It may be that this is achieved by establishing a publicly held company that will operate as an ISP using these public sector networks. Alternatively, these networks could be leased to existing commercial ISPs",14200.0,green,Won,Existing client,Harry Metcalfe,"","","",6805867,,10859633
+Public access to public sector networks,Cabinet Office,"The Cabinet Office wishes to operate a service that makes public sector networks available for public use. It may be that this is achieved by establishing a publicly held company that will operate as an ISP using these public sector networks. Alternatively, these networks could be leased to existing commercial ISPs",50000.0,yellow,Lost,Existing client,Ian Dow-Wright,Discuss with Michelle,11/17/14,"",6805872,,10859633
+HRA Notification Banner,Health Research Authority (HRA),HRA want a dismissible banner at the top of their site.,1875.0,green,Won,Existing client,Lily Dart (inactive),"","","",6829729,,15206370
+ITF Website,International Transport Forum,"We received an enquiry through the website asking about making a site for the ITF. 
+
+The International Transport Forum (ITF) is an intergovernmental organisation for the transport sector and is funded by contributions from the governments of its 54 member countries. We are administratively integrated with the Organisation for Economic Co-operation and Development (OECD) but have our own governance structure.
+ITF’s mission is knowledge production and knowledge sharing in the area of transport policy. The objective of ITF’s work is to help member countries to implement better transport policies.",30000.0,yellow,Lost,Website,Ian Dow-Wright,"","","Sabrina Traskos
+Sabrina.TRASKOS@oecd.org",6855840,1028833755,23132933
+External Stakeholder Directory,Consumer Council for Water,CCW would like a separate contact directory for external stakeholders,3360.0,red,Lost,Existing client,Ian Dow-Wright,"","","Sangeeta Chauhan
+0121 345 1063",6884612,1028150746,17292381
+Shared Parental Leave,"Department of Business, Innovation and Skills",Fran contacted us regarding a hypothetical site to promote the shared parental leave policy.,20000.0,red,Lost,Existing client,Ian Dow-Wright,"","","Francesca Lopez
+francesca.lopez@bis.gsi.gov.uk",6884627,1022973382,10859639
+Card Sort,Nottingham County Council,Nottingham County Council are looking to rebuild their online presence. They would like someone to come and help them with their IA and user journeys.,9000.0,yellow,Lost,Referral,Ian Dow-Wright,"","","Sarah Lay
+0115 9773215 x73215
+sarah.lay@nottscc.gov.uk",6885741,1028154877,23275215
+BBB Investments,"Department of Business, Innovation and Skills",British Business Bank need a new site to talk about what they're doing. (I'll add more detail once I have it). It will be a three or four page site.,2000.0,yellow,Won,Existing client,Ian Dow-Wright,"","","Scott Shearer
+020 7215 0971
+scott.shearer@british-business-bank.co.uk",6895330,1025575544,10859639
+Redevelopment of GREAT Business,"Department of Business, Innovation and Skills",The GREAT team need some user testing and an additional sprint on GREAT Business,24120.0,green,Won,Existing client,Ian Dow-Wright,"","","Guinnevere Whelan
+020 7215 3071
+Guinnevere.WHELAN@bis.gsi.gov.uk",6913136,1025505342,10859639
+STH Intranet,Sheffield Teaching Hospital,"STH are looking to build a new intranet. They have scoped out some requirements and have some personas but are lacking a development partner.
+
+They are a large trust covering 5 hospitals in the North East with between 12,000 and 15,000 staff depending on the time of year. They want a mobile friendly intranet to act as a comms and discussion platform. They would like users to access it externally.",49020.0,green,Lost,Website,Ian Dow-Wright,"","","Andrew Duckworth
+andrew.duckworth@sth.nhs.uk",6955389,1028627660,23475763
+GOV.UK Blogs User Research,Cabinet Office,"",11400.0,yellow,Won,Existing client,Ian Dow-Wright,"","","Reema Mehta
+reema.mehta@digital.cabinet-office.gov.uk",7001043,1028835726,10859633
+MyCircle,Circle Housing,Online customer services and customer support system for Circle Housing Association.,1500000.0,yellow,Lost,Contracts Finder,Ian Dow-Wright,"","","",7030132,,23713727
+Universal Digital Platform,The Society of Chief Librarians,"To design a universal digital platform which will fulfil a range of relevant functions and provide compelling user experiences, aligned to digital content produced as a result of Universal Offer-related work or content developed by partners with library functionality.",30000.0,red,Lost,Referral,Ian Dow-Wright,"","","",7050211,,23780174
+Guerilla Testing,Thames Valley Housing Association,TVH want to guerilla test people at their unconference,1800.0,green,Won,Existing client,Ian Dow-Wright,"","","",7102624,,14436151
+Penetration Testing,NHS England,NHS England wish to carry out a pentest of their site,6000.0,green,Won,Existing client,Ian Dow-Wright,"","","",7102629,,22085713
+Additional Dev Days,Thames Valley Housing Association,TVH need moar things,3120.0,green,Won,Existing client,Ian Dow-Wright,"","","",7102631,,14436151
+Intranet Sprint,Department for Communities & Local Government,Additional development of the DCLG Intranet,7200.0,green,Won,Existing client,Ian Dow-Wright,"","","",7102643,,11894122
+Four day sprint,Judiciary Service,"",3360.0,green,Won,Existing client,Ian Dow-Wright,"","","",7102645,,18880906
+Hard to Reach Testing,Thames Valley Housing Association,"TVH want to do usability testing with their ""Hard to reach"" residents in Surrey",2940.0,green,Won,Existing client,Ian Dow-Wright,"","","",7102649,,14436151
+NHS Sprint,NHS England,Tom sprint,7200.0,green,Won,Existing client,Ian Dow-Wright,"","","",7108079,,22085713
+Google search implementation,NHS England,3 days,3000.0,green,Won,Existing client,Ian Dow-Wright,"","","",7108101,,22085713
+Usability Testing,Health Research Authority (HRA),Tracy asked for some usability testing in January,2940.0,yellow,Won,Existing client,Ian Dow-Wright,"","","Tracy Papiccio
+020 7972 2688
+tracy.papiccio@nhs.net",7108106,1030479521,15206370
+Business Opportunities Service,UKTI,UKTI is looking for a discovery partner to help them understand how to improve the business opportunities service.,30000.0,yellow,Lost,Referral,Ian Dow-Wright,"","","Jonathan Lilley
+020 7215 4347
+jonathan.lilley@ukti.gsi.gov.uk",7110882,1029466284,24038506
+Page migration,NHS England,The content is http://www.england.nhs.uk/commissioning/ld-prov-frwrk/ and it needs moving to a multisite http://www.england.nhs.uk/lpf/ (currently a redirector to the first link),390.0,green,Won,Existing client,Ian Dow-Wright,"","","",7194924,,22085713
+Sprint 34 TVH OCS,Thames Valley Housing Association,Next dev sprint for TVH,12480.0,green,Won,Existing client,Ian Dow-Wright,"","","",7195048,,14436151
+E-Exporting Programme,UKTI,The E-Exporting Programme is looking to transition to a digital service that allows users to serve themselves. They are looking for an agency to partner with for the Discovery phase.,32000.0,yellow,Lost,Referral,Ian Dow-Wright,"","","Ben Morgan
+020 7215 2838
+ben.morgan@uktispecialist.com",7195313,1030062659,24038506
+Penetration testing,Thames Valley Housing Association,Pentest on TVH infrastructure,8000.0,green,Won,Existing client,Harry Metcalfe,"","","",7195371,,14436151
+HR Content Migration,Department for Communities & Local Government,Graham has asked us to migrate the new HR structure from staging to production [ticket 4041]. Tamas will carry out a partial database migration.,390.0,green,Won,Existing client,Ian Dow-Wright,"","","",7202403,,11894122
+Plugin Inspection,ADInstruments,We received a message through the website from Andrew Black asking us about 12 plugin inspections.,3780.0,red,Lost,Website,Ian Dow-Wright,"","","",7216008,,24516441
+Equity housing mapping and analysis,Equity Housing Trust,They want some value chain mapping of their existing systems,10000.0,green,Won,Existing client,Harry Metcalfe,"","","",7243277,,22951752
+FSTIB site with Red Stone,UKTI,"UKTI FSTIB want to redevelop their site. They like Luxembourg For Finance's site and want something in a similar vein.
+
+Existing site: http://www.fstib.com/
+Site to copy: http://www.luxembourgforfinance.com/
+
+Suzie from Red Stone called. We have done some work with them before for DCMS (Women's Business Council)
+
+Red Stone will do the design and the site needs to be done by the 18th March.
+
+UKTI do not want responsive design but would like to ""add it later"".
+
+The project may have to go out to tender but Red Stone work with UKTI a lot so they will be preferred supplier. Red Stone liked working with us and would like to do it again",10000.0,yellow,Lost,Existing client,Ian Dow-Wright,"","","Suzy Lucker
+020 7336 0771
+suzy.lucker@red-stone.com",7268931,1031956628,24038506
+Do More Online,"Department of Business, Innovation and Skills",BIS want to redevelop the Do More Online pages on GREAT Business.,18000.0,green,Won,Existing client,Ian Dow-Wright,"","","",7323755,,10859639
+TVH OCS Sprint 36,Thames Valley Housing Association,Next TVH sprint,15420.0,green,Won,Existing client,Ian Dow-Wright,"","","",7323764,,14436151
+Pashtu language translation,The Bureau of Investigative Journalism,TBIJ would like an additional language added to the site.,900.0,green,WON: Make invoice,Existing client,Ian Dow-Wright,Check in with Jack,03/30/15,"Jack Searle
+020 7040 0093
+jackserle@tbij.com",7323858,1030719158,11232388
+Standards Hub,Cabinet Office,The transparency team Talk to Lily for more deets.,5000.0,green,Lost,Referral,Ian Dow-Wright,"","","Romina Ahmad
+07956 318557
+romina.ahmad@cabinetoffice.gov.uk",7328873,1031536745,10859633
+DH Hosting,Department of Health,Hosting for Campaign sites & intranet,30000.0,green,Won,Existing client,Ian Dow-Wright,"","","Francis Babayemi
+020 7972 1611
+Francis.Babayemi@dh.gsi.gov.uk",7394840,1005803075,11898787
+DevOps Appointment,Thames Valley Housing Association,"",72000.0,green,Won,Upsell,Harry Metcalfe,"","","",7394843,,14436151
+Tribunal Decision Service,Leaseholders Advisory Service,"",48780.0,green,Lost,Website,Ian Dow-Wright,"","","Nick Haler
+020 7832 2503
+NickHaler@lease-advice.org",7458735,1031768232,25254852
+PHE Intranet Discovery,Public Health England,PHE are looking for an agency to complete  a discovery phase for their new intranet.,14550.0,green,Lost,Referral,Ian Dow-Wright,"","","Jackie Powell
+0113 254 5008
+Jacqueline.Powell@dh.gsi.gov.uk",7472473,1031853315,20498366
+Analytics Spike,Office for National Statistics,Investigation into more detailed analytics reporting for GSS.,900.0,yellow,WAIT for further information,Existing client,Ian Dow-Wright,Expected close date,06/26/15,"Matt Jukes
+01633 45 5432
+matt.jukes@ons.gsi.gov.uk",7481660,1022888817,16281820
+Crimestoppers Hosting,Crimestoppers,Hosting and migration to GovPress,20000.0,yellow,WAIT for feedback on proposal,Referral,Ian Dow-Wright,Expected close date,06/26/15,"Ben Furber
+020 8835 3726
+Ben.Furber@crimestoppers-uk.org",7481661,1031916948,25336469
+Rolls Building,Judiciary Service,Marketing site for commercial courts - (GovSite),12000.0,yellow,WAIT for further information,Existing client,Ian Dow-Wright,Expected close date,05/29/15,"Annalise Curry
+020 7073 1711
+Annalise.Curry@judiciary.gsi.gov.uk",7481665,1025504764,18880906
+PDS Blog,Parliament Digital Service,Tracy spoke to us about the possibility of having a blog for the new PDS. We are suggesting implementing a platform like GDS' blogs,9084.8,green,Won,Existing client,Ian Dow-Wright,"","","Tracy Green
+020 7219 2010 / 020 7219 4834
+greentr@parliament.uk",7481667,1022866346,25336475
+UKTI Form Region Selection,UKTI,UKTI would like the form to automagically send the responses to the relevant regional office.,7200.0,green,Won,Existing client,Ian Dow-Wright,"","","Diane Brodie
+diane.brodie@ukti.gsi.gov.uk",7489414,1031957300,24038506
+Homelessness Dashboard,Centrepoint,Centrepoint would like a prototype dashboard to display data around homelessness from a number of data sources,7500.0,green,Lost,Referral,Ian Dow-Wright,"","","Gaia Marcus
+0207 423 6812
+G.Marcus@centrepoint.org",7530145,1032370728,25631552
+Service Charge Disco Phase,Thames Valley Housing Association,TVH want to start a disco phase looking at service charges,23850.0,green,Won,Existing client,Ian Dow-Wright,"","","John Barry
+0794 1948 566
+John_Barry@tvha.co.uk",7530151,1032370722,14436151
+TVHA Corporate site 'Get involved',Thames Valley Housing Association,improving the user journey for volunteer opportunities and working to improve the structure of the get involved section of the site,18000.0,yellow,WAIT for feedback on proposal,Existing client,Will Reddin,Expected close date,06/26/15,"",7665042,,14436151
+Fundraising Profiler,Insight-Ful,Jonathan is looking into the feasibility of detecting user demographics at the point they visit a charity website with a view to serving the most appropriate content for that demographic.,40000.0,yellow,WAIT for further information,Referral,Ian Dow-Wright,Expected close date,07/31/15,"Jonathan Cook
+07921250211
+jonathan@insight-ful.co.uk",7697714,1033839423,26384221
+MOJ Hosting,Ministry of Justice,Hosting MoJ's Intranet,10000.0,yellow,WAIT for meeting,Referral,Ian Dow-Wright,Expected close date,06/26/15,"",7707360,,10859676
+Enterprise Europe,Innovate UK,Innovate UK are looking to replace http://enterprise-europe.co.uk/ with a new updated site. They came across GovSite on the digital marketplace and wonder if it is suitable for this,92400.0,green,WRITE a proposal,G-Cloud,Will Reddin,Expected close date,05/29/15,"",7707910,,26417107
+GDS Blogs May sprint,Government Digital Service,GDS blogs sprint for May,6720.0,"",Won,Existing client,Will Reddin,Expected close date,04/22/15,"",7711080,,10859641
+NHS England sprint,NHS England,"NHS England would like to continue sprinting to finish icebox stories and branding, also iterate on bbPress if needed, should try and upsell user testing if possible",17100.0,green,WAIT for meeting,Existing client,Will Reddin,Expected close date,05/29/15,"",7711110,,22085713
+eJudiciary Consultancy,Judiciary Service,Harry consulting,375.0,green,WON: Make invoice,Existing client,Ian Dow-Wright,Expected close date,05/15/15,"Annalise Curry
+020 7073 1711
+Annalise.Curry@judiciary.gsi.gov.uk",7712495,1025504764,18880906
+Homelessness Dashboard,Centrepoint,Centrepoint now want to make the live service. Based on what they have learned from the MVP,80000.0,yellow,WAIT for feedback on proposal,Referral,Ian Dow-Wright,Expected close date,07/30/15,"",7750337,,25631552
+PHSO Disco,Parliamentary and Health Service Ombudsman  (PHSO),"",40000.0,green,Lost,G-Cloud,Ian Dow-Wright,"","","",7750339,,26541553
+TVH OCS Sprint 40,Thames Valley Housing Association,TVH sprint -,15420.0,green,Won,Existing client,Will Reddin,"","","",7750397,,14436151
+TVH OCS Sprint 42,Thames Valley Housing Association,TVH sprint -,15420.0,green,Won,Existing client,Will Reddin,"","","",7750404,,14436151
+TVH OCS Sprint 44,Thames Valley Housing Association,TVH sprint -,15420.0,green,Won,Existing client,Will Reddin,"","","",7750408,,14436151
+DH people finder alpha,Department of Health,Spinning up a people finder app alpha using existing MoJ code,5400.0,green,Won,Existing client,Will Reddin,"","","",7750412,,11898787
+Judiciary single sign on sprint,Judiciary Service,"Implementing a single sign on process for intranet, MS accounts and LMS accounts",7200.0,green,WAIT for feedback on proposal,Existing client,Will Reddin,Expected close date,05/29/15,"",7850428,,18880906
+Suffolk and Norfolk constabularies,suffolk and Norfolk Constabularies,"Redesign of the Suffolk and Norfolk constabularies websites, including multisite functionality for subsites",100000.0,green,WRITE a proposal,G-Cloud,Will Reddin,Expected close date,10/30/15,"",7972336,,27431383
+Access to Research (A2R) service,The Society of Chief Librarians,Research to ascertain the value of the A2R service to the general public and SCLs stakeholders.,25000.0,yellow,WRITE a proposal,Referral,Ian Dow-Wright,Expected close date,10/05/15,"Helen Drakard
+07747563742
+helendrakard@hotmail.com",7973746,1036250353,23780174
